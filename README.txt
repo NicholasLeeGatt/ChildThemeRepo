@@ -1,0 +1,1 @@
+In the zip file you will find the css and php file of the child theme being used in the wordpress website.
